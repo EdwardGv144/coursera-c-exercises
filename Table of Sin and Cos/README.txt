@@ -10,5 +10,5 @@ This program prints a table of sine and cosine values for inputs between 0.1 and
 - Simple table layout using `printf`
 
 ```bash
-gcc sine_cos_table.c -o table
+gcc table_of_sin_and_cos.c -o table
 ./table

@@ -26,5 +26,5 @@ It treats Ace as high only, with no wildcards or jokers.
 ## 🛠 How to Compile and Run
 
 ```bash
-gcc poker_simulation.c -o poker
+gcc seven_card_stud.c -o poker
 ./poker

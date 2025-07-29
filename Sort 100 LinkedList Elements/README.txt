@@ -22,5 +22,5 @@ This program demonstrates how to:
 ## 🛠 How to Compile and Run
 
 ```bash
-gcc linked_list_bubble_sort.c -o linkedlist
+gcc sort_100_linkedlist_elements.c -o linkedlist
 ./linkedlist

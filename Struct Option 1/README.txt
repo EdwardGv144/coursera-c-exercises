@@ -23,5 +23,5 @@ I selected **Option 1** for this task, which involves creating:
 ## 🛠 How to Compile and Run
 
 ```bash
-gcc date_struct_enum.c -o date
+gcc using_struct_option1.c -o date
 ./date
