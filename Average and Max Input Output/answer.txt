@@ -1,0 +1,4 @@
+Array of integers:
+22 3 7 8 43 
+Average: 16.600
+Maximum: 43
